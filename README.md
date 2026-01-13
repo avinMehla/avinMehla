@@ -72,17 +72,17 @@ I enjoy solving challenging problems and building **efficient, scalable systems*
 
 ## 📂 Featured Projects
 
-- 🤖 **VARTALAPP**  
-  AI-powered multilingual platform translating **Indian Sign Language** into **22 Indian languages**, aligned with **Viksit Bharat**.
+- 🔢 **Sorting Visualizer**  
+  Interactive web application that visually demonstrates popular sorting algorithms like **Bubble Sort, Merge Sort, and Quick Sort**, helping users understand algorithm behavior and time complexity.
 
-- 🎯 **Interview Simulator**  
-  AI-based interview platform with **topic-wise customization**, **timed interviews**, and **automated feedback reports**.
+- 💸 **Expense Tracker**  
+  Application that allows users to **track income and expenses**, categorize spending, and analyze financial patterns through simple visual reports.
 
 - 📈 **Stock Price Prediction**  
-  Machine Learning project focusing on regression models and performance evaluation.
+  Machine Learning project focused on predicting stock prices using **regression models**, historical data analysis, and performance evaluation metrics.
 
 - 🌐 **Portfolio Website**  
-  Responsive portfolio website built using **HTML, CSS, and JavaScript**.
+  Responsive personal portfolio built using **HTML, CSS, and JavaScript** to showcase projects, skills, and contact information.
 
 ---
 
@@ -101,3 +101,7 @@ I enjoy solving challenging problems and building **efficient, scalable systems*
 > 💬 Open to collaborations, hackathons, and DSA discussions
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001220,50:004e89,100:001220&height=100&section=footer" />
+## 🐍 Contribution Activity
+
+![Snake animation](https://github.com/avinMehla/avinMehla/blob/output/github-contribution-grid-snake.svg)
+
