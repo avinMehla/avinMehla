@@ -1,5 +1,8 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:001220,50:004e89,100:001220&height=280&section=header&text=Avin%20Mehla&fontSize=60&fontColor=00f2ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20DSA%20%26%20AIML%20Enthusiast&descSize=20&descAlignY=55)](https://github.com/avinMehla)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:001220,100:004e89&height=250&section=header&text=Avin%20Mehla&fontSize=55&fontColor=00f2ff)
 
+## 🐍 Contribution Activity
+
+![Snake animation](https://github.com/avinMehla/avinMehla/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avinMehla&label=PROFILE%20VIEWS&color=0077b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/avinMehla?style=for-the-badge&logo=github&label=FOLLOWERS&color=24243e" />
@@ -101,7 +104,5 @@ I enjoy solving challenging problems and building **efficient, scalable systems*
 > 💬 Open to collaborations, hackathons, and DSA discussions
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001220,50:004e89,100:001220&height=100&section=footer" />
-## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/avinMehla/avinMehla/blob/output/github-contribution-grid-snake.svg)
 
