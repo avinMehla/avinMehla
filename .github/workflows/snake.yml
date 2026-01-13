@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate snake (dark mode)
+      - name: Generate dark snake
         uses: Platane/snk@v3
         with:
           github_user_name: avinMehla
