@@ -36,8 +36,7 @@ I enjoy solving challenging problems and building **efficient, scalable systems*
 ---
 ## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/avinMehla/avinMehla/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/avinMehla/avinMehla/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
