@@ -55,6 +55,20 @@ I enjoy solving challenging problems and building **efficient, scalable systems*
   - Graphs & Trees
 
 ---
+<h2 align="center">📊 Coding Activity</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>LeetCode</b><br><br>
+      <img src="https://leetcard.jacoblin.cool/eg_selfish?ext=heatmap&theme=dark" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Codeforces</b><br><br>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=eg_selfish&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## 📂 Featured Projects
 
