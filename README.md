@@ -87,7 +87,7 @@ I enjoy solving challenging problems and building **efficient, scalable systems*
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/avin-mehla-022945313" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:avinmehla1209@gmail.com">
