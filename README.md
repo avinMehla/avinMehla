@@ -86,14 +86,16 @@ I enjoy solving challenging problems and building **efficient, scalable systems*
 
 ## 📬 Connect With Me
 
-<p align="left">
-  <a href="www.linkedin.com/in/avin-mehla-022945313" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/avin-mehla-022945313/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:avinmehla1209@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-24243e?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 > 🚀 Actively seeking **Backend / Software Engineering Internships**  
 > 💬 Open to collaborations, hackathons, and DSA discussions
