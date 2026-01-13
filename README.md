@@ -11,6 +11,13 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+## 📘 Today I Learned
+- Studied monotonic stack patterns
+- Optimized DP solution from O(n²) → O(n)
+
 
 ## 🧑‍💻 About Me
 
