@@ -1,8 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:001220,100:004e89&height=250&section=header&text=Avin%20Mehla&fontSize=55&fontColor=00f2ff)
 
-## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/avinMehla/avinMehla/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avinMehla&label=PROFILE%20VIEWS&color=0077b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/avinMehla?style=for-the-badge&logo=github&label=FOLLOWERS&color=24243e" />
@@ -36,12 +34,10 @@ I enjoy solving challenging problems and building **efficient, scalable systems*
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" /> |
 
 ---
+## 🐍 Contribution Activity
 
-## 📊 GitHub Activity
+![Snake animation](https://github.com/avinMehla/avinMehla/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinMehla&bg_color=0d1117&color=0077b6&line=00f2ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
 
 ---
 
